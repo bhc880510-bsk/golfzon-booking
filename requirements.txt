@@ -2,4 +2,5 @@ streamlit
 requests
 ujson
 pytz
+BeautifulSoup
 urllib3
